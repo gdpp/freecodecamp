@@ -1,6 +1,6 @@
 # FreeCodeCamp Roadmap
 
-This repository contains all the projects done at [FreeCodeCamp](www.freecodecamp.org)
+This repository contains all the projects done at [FreeCodeCamp](https://www.freecodecamp.org)
 
 ## Project structure
 
