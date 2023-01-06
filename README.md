@@ -1,6 +1,6 @@
 # FreeCodeCamp Roadmap
 
-This repository contains all the projects done at [FreeCodeCamp](https://www.freecodecamp.org)
+This repository contains all the projects done to earn the certification of each category at [FreeCodeCamp](https://www.freecodecamp.org)
 
 ## Project structure
 
@@ -8,6 +8,7 @@ This repository contains all the projects done at [FreeCodeCamp](https://www.fre
 
 ---
 
--   1. Cat Photo App Project
--   2. Cafe Menu Project
--   3. Color Markers Project
+-   1. Cat Photo App Project.
+-   2. Cafe Menu Project.
+-   3. Color Markers Project.
+-   4. Registration Form.
