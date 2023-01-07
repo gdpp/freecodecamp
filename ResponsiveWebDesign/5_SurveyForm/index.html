@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h1 id="title">Maple Develop Survey Form</h1>
+    <p id="description">Thank you for taking the time to help us improve our platform</p>
+    <form id="survey-form">
+        <div class="form-group">
+            <label for="name" id="name-label">Name</label>
+            <input type="text" name="name" id="name" placeholder="Enter your name" required>
+            <label for="email" id="email-label">Email</label>
+            <input type="email" name="email" id="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$"
+                placeholder="Enter your email" required>
+            <label for="number" id="number-label">Age</label>
+            <input type="number" name="age" id="number" min="10" max="120" placeholder="Enter your age">
+            <label for="dropdown" id="role-label">Which option is your current role?</label>
+            <select name="role" id="dropdown">
+                <option value="">(Choose an option)</option>
+                <option value="1">Frontend</option>
+                <option value="2">Backend</option>
+                <option value="3">Fullstack</option>
+                <option value="4">Devops</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <p class="question-title">Are you interested in learn Web Development?</p>
+            <label class="question-label" for="definitely-option">
+                <input type="radio" name="question" id="definitely-option" value="definitely">
+                Definitely
+            </label>
+            <label class="question-label" for="maybe-option">
+                <input type="radio" name="question" id="maybe-option" value="maybe">
+                Maybe
+            </label>
+            <label class="question-label" for="notsure-option">
+                <input type="radio" name="question" id="notsure-option" value="not sure">
+                Not sure
+            </label>
+        </div>
+        <div class="form-group">
+            <p class="question-title">How would you like to learn it?</p>
+            <label class="learn-label">
+                <input type="checkbox" name="learn" value="projects">
+                Projects
+            </label>
+            <label class="learn-label">
+                <input type="checkbox" name="learn" value="snippets">
+                Snippets
+            </label>
+            <label class="learn-label">
+                <input type="checkbox" name="learn" value="videos">
+                Videos
+            </label>
+            <label class="learn-label">
+                <input type="checkbox" name="learn" value="articles">
+                Articles
+            </label>
+            <label class="learn-label">
+                <input type="checkbox" name="learn" value="cats">
+                Cats Coding
+            </label>
+            <label id="comments-label" for="comments">Any comments or suggestions?</label>
+            <textarea name="comments" id="comments" cols="30" rows="6"></textarea>
+        </div>
+        <div class="button-container">
+            <button type="submit" id="submit">Submit</button>
+        </div>
+    </form>
+</body>
+
+</html>
