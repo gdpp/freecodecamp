@@ -11,5 +11,6 @@ This repository contains all the projects done to earn the certification of each
 -   1. Cat Photo App Project.
 -   2. Cafe Menu Project.
 -   3. Color Markers Project.
--   4. Registration Form.
--   5. Survey Form (First project for certificartion).
+-   4. Registration Form Project.
+-   5. `Survey Form (First project for certificartion).`
+-   6. Rothko Painting Project.
