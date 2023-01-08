@@ -14,3 +14,4 @@ This repository contains all the projects done to earn the certification of each
 -   4. Registration Form Project.
 -   5. `Survey Form (First project for certificartion).`
 -   6. Rothko Painting Project.
+-   7. Flexbox Photo Gallery Project.
