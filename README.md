@@ -15,3 +15,4 @@ This repository contains all the projects done to earn the certification of each
 -   5. `Survey Form (First project for certificartion).`
 -   6. Rothko Painting Project.
 -   7. Flexbox Photo Gallery Project.
+-   8. Nutritional Label Project.
