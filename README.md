@@ -18,3 +18,4 @@ This repository contains all the projects done to earn the certification of each
 -   8. Nutritional Label Project.
 -   9. Quiz App Project.
 -   10. `Tribute Page (Second project for certification).`
+-   11. Balance Sheet Project.
