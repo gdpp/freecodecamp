@@ -20,7 +20,8 @@ This repository contains all the projects done to earn the certification of each
 10. `Tribute Page (Second project for certification).`
 11. Balance Sheet Project.
 12. Picasso Painting Project.
-13. Piano Project
+13. Piano Project.
+14. `Documentation Page (Third project for certification).`
 
 ### JavaScript Algorithms and Data Structures
 
