@@ -20,7 +20,7 @@ This repository contains all the projects done to earn the certification of each
 10. `Tribute Page (Second project for certification).`
 11. Balance Sheet Project.
 
-## JavaScript Algorithms and Data Structures
+### JavaScript Algorithms and Data Structures
 
 ---
 
